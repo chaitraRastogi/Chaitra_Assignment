@@ -1,0 +1,58 @@
+body{
+	background-image:url("Assets/bg.jpg");
+    background-repeat: no-repeat;
+background-size: contain;
+
+	
+}
+.div-specs{
+background-color:black;
+margin:auto;
+opacity:.8;
+text-align:center;
+padding:25px;
+
+}
+p{
+text-align:center;
+font-size:14px;
+color:#D3D3D3;
+}
+h2,h3,h4{
+	
+	 text-align: center;
+ text-transform: uppercase;
+ color:#D3D3D3;
+  
+
+}
+.green-text{
+	 letter-spacing: 4px;
+	  color: #4CAF50;	
+}
+.grey-text{
+	color:#808080;
+}
+.yellow-text{
+	color:#F0E68C;
+}
+
+img{
+	width:100%;
+	
+}
+.btn{
+	border-radius:0px;
+}
+.margin-specs{
+	margin-top:34px;
+}
+.hr-specs{
+	border:1px solid #808080;
+	
+}
+.label-specs{
+	font-size:23px;	
+	color:#D3D3D3;
+	
+}
